@@ -25,14 +25,11 @@ h3 {
 }
 
 table {
-  
   padding: 2%;
   border: 1px solid #4f3961;
   border-collapse: separate;
-  
 }
 
-
-a:hover{
+a:hover {
   color: #d45079;
 }
