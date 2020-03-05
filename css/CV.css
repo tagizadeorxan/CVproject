@@ -31,3 +31,7 @@ table {
   border-collapse: separate;
 
 }
+
+a:hover{
+  color: #d45079;
+}
