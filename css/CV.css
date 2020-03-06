@@ -26,12 +26,11 @@ h3 {
 }
 
 table {
-  
   padding: 2%;
   border-collapse: separate;
-  
 }
 
+<<<<<<< HEAD
 
 .button {
   display: inline-block;
@@ -86,3 +85,8 @@ th{
   align-items:center;
 }
 
+=======
+a:hover {
+  color: #d45079;
+}
+>>>>>>> 062150b90edb6570ff7c98d9f6f0077b7e2ccf95
