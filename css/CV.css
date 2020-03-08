@@ -8,9 +8,9 @@
   border: 1px solid #a6b1e1;
   background-color: #ff0;
   position: fixed;
-  width: 10%;
+  max-width: 10%;
 
-  height: 25%;
+  max-height: 25%;
 }
 
 h1 {
